@@ -1,16 +1,8 @@
-# ebook_with_audio_player_app
+## 🔥 EBOOK WITH AUDIO PLAYER 🔥 ##
 
-A new Flutter project.
+## 👇 DEMO VIDEO 👇 ##
 
-## Getting Started
+https://user-images.githubusercontent.com/109496783/183804036-a18bcfd6-6867-41e7-8774-63813ca49bdd.mp4
 
-This project is a starting point for a Flutter application.
+## THANKYOU! 😊💖 ##
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
