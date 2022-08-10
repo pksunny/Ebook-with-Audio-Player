@@ -1,0 +1,30 @@
+[
+    {
+        "rating": "4.5",
+        "title": "THE WATER CURE",
+        "text": "Martin Hyatt",
+        "img": "assets/images/1.jpg",
+        "audio": "Voices.mp3"
+    },
+    {
+        "rating": "4.6",
+        "title": "PEACE LIFE",
+        "text": "Hazard Bin",
+        "img": "assets/images/2.jpg",
+        "audio": "June = Bobby Richards.mp3"
+    },
+    {
+        "rating": "4.5",
+        "title": "DAY REMEMBER",
+        "text": "Nicholos",
+        "img": "assets/images/3.jpg",
+        "audio": "Voices.mp3"
+    },
+    {
+        "rating": "4.5",
+        "title": "FRANCE",
+        "text": "Paris",
+        "img": "assets/images/4.jpg",
+        "audio": "Voices.mp3"
+    }
+]
